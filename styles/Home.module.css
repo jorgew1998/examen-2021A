@@ -119,3 +119,26 @@
     flex-direction: column;
   }
 }
+
+.listStyles {
+ width: 100%;
+ height: 500px;
+}
+
+.divider {
+  background-color: transparent;
+  height: 20px;
+}
+
+.first {
+  text-align: center;
+}
+
+.pageLoad {
+  text-align: center;
+}
+
+
+
+
+
